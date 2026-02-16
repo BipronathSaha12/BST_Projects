@@ -197,4 +197,4 @@ B.Sc. Engineering (EEE)
 
 # 📜 License
 
-MIT License
+[MIT License](https://github.com/BipronathSaha12/BST_Projects/blob/main/LICENCE)
