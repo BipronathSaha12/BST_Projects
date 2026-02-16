@@ -1,0 +1,19 @@
+2026-02-16 22:42:44 root INFO: Inserting key: 10
+2026-02-16 22:48:08 root INFO: Inserting key: 10
+2026-02-16 22:48:24 root INFO: Inserting key: 5
+2026-02-16 22:48:28 root INFO: Inserting key: 20
+2026-02-16 22:48:38 root INFO: Inserting key: 3
+2026-02-16 22:48:47 root INFO: Inserting key: 7
+2026-02-16 22:48:56 root INFO: Inorder Traversal
+2026-02-16 23:07:45 root INFO: Inserting key: 10
+2026-02-16 23:08:09 root INFO: Inserting key: 5
+2026-02-16 23:08:14 root INFO: Inserting key: 20
+2026-02-16 23:08:20 root INFO: Inserting key: 3
+2026-02-16 23:08:26 root INFO: Inserting key: 7
+2026-02-16 23:08:34 root INFO: Inorder Traversal
+2026-02-16 23:24:29 root INFO: Inserting key: 10
+2026-02-16 23:24:32 root INFO: Inserting key: 5
+2026-02-16 23:24:36 root INFO: Inserting key: 20
+2026-02-16 23:24:42 root INFO: Inserting key: 3
+2026-02-16 23:25:06 root INFO: Searching for key: 5
+2026-02-16 23:25:22 root INFO: Searching for key: 7
