@@ -144,7 +144,9 @@ pip install graphviz
   Operation   Average    Worst
   ----------- ---------- -------
   Insert      O(log n)   O(n)
+  
   Delete      O(log n)   O(n)
+  
   Search      O(log n)   O(n)
 
 Worst case occurs when tree becomes skewed.
@@ -189,8 +191,8 @@ Uses Graphviz to:
 
 # 👨‍💻 Author
 
-Bipronath Saha
-B.Sc. Engineering (EEE)\
+Bipronath Saha\
+B.Sc. Engineering (EEE)
 ------------------------------------------------------------------------
 
 # 📜 License
